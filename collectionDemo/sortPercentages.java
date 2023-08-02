@@ -1,7 +1,6 @@
-import java.util.Collection;
-import java.util.ArrayList;
-import java.util.Collections;
-import java.util.List;
+package collectionDemo;
+import java.util.*;
+
 
 public class sortPercentages {
     public static void main(String[] args) {
